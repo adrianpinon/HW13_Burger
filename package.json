@@ -1,0 +1,21 @@
+{
+  "name": "HW13_Burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "burger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianpinon/HW13_Burger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianpinon/HW13_Burger/issues"
+  },
+  "homepage": "https://github.com/adrianpinon/HW13_Burger#readme"
+}
