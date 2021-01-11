@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.static("public"));
 
-const exphbs = require("expres-handlebars");
+let  exphbs = require("express-handlebars");
 app.engine("handlebars", exphbs({ defaultLayout: "main"}));
 app.set("view engine", "handlebars");
 
