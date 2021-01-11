@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/adrianpinon/HW13_Burger/issues"
   },
-  "homepage": "https://github.com/adrianpinon/HW13_Burger#readme"
+  "homepage": "https://github.com/adrianpinon/HW13_Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
